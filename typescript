@@ -1,0 +1,63 @@
+Script started on 2020-08-07 08:19:58-0700
+[4mxvarix[24m:[1m~/src/c++[0m% vim myfile
+[?1000h[?2004h[?1049h[22;0;0t[?1h=[?2004h[1;24r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[24;1H"myfile" [New File][2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[1;1H[93m  1 [m
+[94m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [m[24;63H0,0-1[9CAll[1;5H[?25hP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\[?1000l[?1006h[?1002h[?1006l[?1002l[?1006h[?1002h[?25l[24;53Hi[1;5H[24;53H [1;5H[24;1H[1m-- INSERT --[m[24;13H[K[24;63H0,1[11CAll[1;5H[?25h[?25lH[24;63H1,2[1;6H[?25h[?25le[24;65H3[1;7H[?25h[?25ll[24;65H4[1;8H[?25h[?25ll[24;65H5[1;9H[?25h[?25lo[24;65H6[1;10H[?25h[24;1H[K[1;9H[?25l[24;53H^[[1;9H[?25h[?25l[24;53H  [1;10H[24;63H1,5[11CAll[1;9H[?25h[?25l[24;53H:[1;9H[24;53H[K[24;1H:[?2004h[?25hw[?25l[?25hq[?25l[?25h[?25l[?1006l[?1002l[?2004l"myfile" [New] 1L, 6C written
+[?2004l[?1l>[?25h[?1049l[23;0;0t[4mxvarix[24m:[1m~/src/c++[0m% #[Kls
+Animal_solution.cpp	      inputexample4
+a.out			      inputexample4.cpp
+arithmetic_wrapper.cpp	      inputexample.cpp
+arithmetic_wrapper.h	      intclass
+arithmeticWrapperTest.cpp     LabTwo.cpp
+assessment		      lambda_example.cpp
+c++_archive.tar.gz	      mapexample.cpp
+c++headers.zip		      moveconstructor1.cpp
+c++helloworld		      moveconstructor2.cpp
+c++helloworld.cpp	      multipleinheritance
+classexample1		      multipleinheritance.cpp
+classexample1.cpp	      mutable_example.cpp
+classexample2		      myfile
+classexample2.cpp	      New_York_City_Restaurant.csv
+classexample3		      patterns
+classexample3.cpp	      placementnewexample.cpp
+concepts		      polymorphism
+concurrency		      polymorphism1
+const_example.cpp	      polymorphism1.cpp
+conversionoperator.cpp	      polymorphism2
+copyconstructor1.cpp	      polymorphism2.cpp
+cow.cpp			      Project1
+c++source.zip		      quicksort
+dividebyzero		      quicksort1.cpp
+dividebyzero.cpp	      quicksort.cpp
+dynamic			      reference_example.cpp
+dynamic2		      shape_data
+dynamic2.cpp		      size
+dynamic.cpp		      size.cpp
+err.out			      smartPointer.cpp
+err_output		      smartpointers
+exceptionexample	      square
+exceptionexample.cpp	      square.cpp
+fileio			      stackexample.cpp
+fileio1.cpp		      staticvarexample.cpp
+fileio.cpp		      statsexample2.cpp
+floatprint		      statsexample.cpp
+floatprint.cpp		      test
+forrange.cpp		      test1.cpp
+function_example.cpp	      test1.h
+functionoverload	      test1.h.gch
+functionoverload.cpp	      test3.cpp
+function_pointer_example.cpp  test5.cpp
+functor_example2.cpp	      test6.cpp
+functor_example.cpp	      TestArithmeticClass.cpp
+generics		      test.cpp
+gun1.h			      test.h
+GunBase.cpp		      typescript
+GunBase.h		      vectorexample
+inputexample		      vectorexample.cpp
+inputexample2		      vectorstl
+inputexample2.cpp	      vectorstl.cpp
+inputexample3		      virtualfunction.cpp
+inputexample3.cpp
+[4mxvarix[24m:[1m~/src/c++[0m% exit
+exit
+
+Script done on 2020-08-07 08:20:16-0700
